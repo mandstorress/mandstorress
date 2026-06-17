@@ -1,6 +1,6 @@
-# Olá! Eu sou Amanda Torres.
+# 👾 Amanda Torres.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+*`🎓 Estudante de Análise e Desenvolvimento de Sistemas`*
 
 ### 🤖 Linguagens e Tecnologias
 
