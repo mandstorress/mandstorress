@@ -1,3 +1,3 @@
-# Olá! Eu sou a Amanda Torres.
+# Olá! Eu sou Amanda Torres.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
